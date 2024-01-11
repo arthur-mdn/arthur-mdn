@@ -31,7 +31,7 @@ I'm Arthur, a 20 years old french web developer.
 - [Formulaire de contact](https://mondon.pro/contact) 
 
 ## ❤️ Support my projects 
-If you are using my projects and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
+If you are using my projects and are happy with them, please consider supporting me. There are lots of ways to support me :
 *   Starring and sharing my projects. 🚀
 *   [![paypal.me/arthurmondon](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/arthurmondon) You can make a one-time donations via PayPal. 🍵
 
