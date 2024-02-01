@@ -21,6 +21,8 @@ I'm Arthur, a 20 years old french web developer.
 <a href="https://github.com/arthur-mdn/DisplayHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-mdn&repo=DisplayHub&show_icons=true&line_height=27&show_owner=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DisplayHub" />
 </a>
+<br>
+<br>
 <a href="https://github.com/arthur-mdn/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-mdn&repo=portfolio&show_icons=true&line_height=27&show_owner=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="portfolio" />
 </a>
