@@ -33,7 +33,10 @@ I'm Arthur, a 20 years old french web developer.
 </a>
 
 ## ✉️ Contact
-- [Formulaire de contact](https://mondon.pro/contact) 
+- [Formulaire de contact](https://mondon.pro/contact)
+
+## 🎥 Chaîne YouTube 
+- [Arthur Mondon](https://www.youtube.com/@arthurmdn)
 
 ## ❤️ Support my projects 
 If you are using my projects and are happy with them, please consider supporting me. There are lots of ways to support me :
