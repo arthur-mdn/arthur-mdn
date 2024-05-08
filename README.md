@@ -4,7 +4,7 @@
 
 
 ## 👋 Hey! 
-I'm Arthur, a 20 years old french web developer.
+I'm Arthur, a 20 years old french developer.
 
 - 🦔 Founder of [Eradion](https://eradion.fr)
 - 👨‍💻 Working at [Edissyum](https://edissyum.com)
@@ -12,8 +12,8 @@ I'm Arthur, a 20 years old french web developer.
 
 ## 🙌 Skills
 - 👨‍💻 HTML, JavaScript, Python, PHP, C#, etc...
-- ⚙️ React, NextJS, Vite, Angular, Node.js, Express, etc...
-- 👁️ CSS
+- ⚙️ React, NextJS, Vite, Angular, Node.js, Express, Swift, etc...
+- 👁️ CSS, SCSS
 - 💽 MySQL, SQL, MongoDB, Postgres
 + a lot more 😊
 
