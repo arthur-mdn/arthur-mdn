@@ -4,7 +4,7 @@
 
 
 ## 👋 Hey! 
-I'm Arthur, a 21 years old french developer.
+I'm Arthur, a 22 years old french developer.
 
 - 🦔 Founder of [Eradion](https://eradion.fr)
 - 👨‍💻 Working at [Edissyum](https://edissyum.com)
